@@ -12,9 +12,9 @@ def create_directories(path, subdirectories):
 
 # Define your directory structure
 directory_structure = [
-    ['ASG', 'ASO','IAW','SRI','SAD','EIE'],  # Top-level directories
-    ['Tema1','Tema2','Tema3','Tema4','Tema5','Tema6','Tema7','Tema8','Tema9','Tema10','Tema11','Tema12'],  # Subdirectories
-    ['Actividad1', 'Actividad2', 'Actividad3', 'Actividad4']  # Sub-subdirectories
+    ['ASG', 'ASO','IAW','SRI','SAD','EIE'],  
+    ['Tema1','Tema2','Tema3','Tema4','Tema5','Tema6','Tema7','Tema8','Tema9','Tema10','Tema11','Tema12'],  
+    ['Actividad1', 'Actividad2', 'Actividad3', 'Actividad4']  
 ]
 
 
